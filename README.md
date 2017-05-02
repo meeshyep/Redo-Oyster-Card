@@ -1,8 +1,8 @@
-####Oystercard Challenge
+###Oystercard Challenge
 
 This week's challenge will start with going back over the basics we covered last week in Boris Bikes, giving you the chance to reinforce what you learned last week. You'll then be challenged to build a more complex system which should really stretch your skills in Ruby, TDD and object-oriented design.
 
-Goals for the week
+**Goals for the week**
 
 Ask yourself the same two questions:
 
@@ -10,13 +10,13 @@ Are you having fun?
 
 Are you a better developer than you were yesterday?
 
-Primary goal
+**Primary goal**
 
 By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
 
 Can you use object-oriented design principles to write better code?
 
-Weekly challenge user stories
+**Weekly challenge user stories**
 
 ```
 In order to use public transport
