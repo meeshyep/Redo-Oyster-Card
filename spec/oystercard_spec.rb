@@ -15,4 +15,9 @@ describe Oystercard do
         subject.top_up(maximum_balance)
         expect{subject.top_up(1)}.to raise_error "Maximum balance of {MAXIMUM_BALANCE} has been met."
     end 
+    
+    it 'deducts an amount from the balance' do 
+        subject.top_up(5)
+        expect(subject.deduct(1)).to eq (4)
+    end 
 end 
