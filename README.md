@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 **Oystercard Challenge**
-=======
-###Oystercard Challenge
->>>>>>> f7cb46c5ff89e683c6750defefd5961593fcfcf3
 
 This week's challenge will start with going back over the basics we covered last week in Boris Bikes, giving you the chance to reinforce what you learned last week. You'll then be challenged to build a more complex system which should really stretch your skills in Ruby, TDD and object-oriented design.
 
